@@ -1,0 +1,70 @@
+{
+  "websites": [
+    {
+      "url": "http://fake-bank-login.com",
+      "is_fraud": true,
+      "domain_age_days": 30,
+      "https_enabled": false,
+      "trust_score": 10,
+      "user_reviews": [
+        "Scammed me out of my banking details!",
+        "Looks like a real bank, but it's fake."
+      ]
+    },
+    {
+      "url": "https://securebank.com",
+      "is_fraud": false,
+      "domain_age_days": 5000,
+      "https_enabled": true,
+      "trust_score": 95,
+      "user_reviews": [
+        "Trusted banking service, been using it for years.",
+        "Great customer support and secure transactions."
+      ]
+    },
+    {
+      "url": "http://win-free-money-now.xyz",
+      "is_fraud": true,
+      "domain_age_days": 15,
+      "https_enabled": false,
+      "trust_score": 5,
+      "user_reviews": [
+        "Asked for my credit card details to claim a fake prize!",
+        "Redirects to multiple shady websites."
+      ]
+    },
+    {
+      "url": "https://amazon.com",
+      "is_fraud": false,
+      "domain_age_days": 10000,
+      "https_enabled": true,
+      "trust_score": 98,
+      "user_reviews": [
+        "One of the biggest and most trusted online retailers.",
+        "Always delivers my orders on time."
+      ]
+    },
+    {
+      "url": "http://cheap-branded-shoes.online",
+      "is_fraud": true,
+      "domain_age_days": 45,
+      "https_enabled": false,
+      "trust_score": 12,
+      "user_reviews": [
+        "Never received my order, customer support doesn't exist!",
+        "Fake reviews, fake products, complete scam."
+      ]
+    },
+    {
+      "url": "https://flipkart.com",
+      "is_fraud": false,
+      "domain_age_days": 8000,
+      "https_enabled": true,
+      "trust_score": 96,
+      "user_reviews": [
+        "Reliable e-commerce site with genuine products.",
+        "Good return policy and customer service."
+      ]
+    }
+  ]
+}
